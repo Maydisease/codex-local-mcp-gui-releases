@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Local MCP Bridge Updates</title>
+    <link>https://maydisease.github.io/codex-local-mcp-gui-releases/appcast.xml</link>
+    <description>Local MCP Bridge macOS updates</description>
+    <language>zh-CN</language>
+  </channel>
+</rss>

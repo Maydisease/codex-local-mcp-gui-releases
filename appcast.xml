@@ -5,5 +5,20 @@
     <link>https://maydisease.github.io/codex-local-mcp-gui-releases/appcast.xml</link>
     <description>Local MCP Bridge macOS updates</description>
     <language>zh-CN</language>
+    <item>
+      <title>Version 0.1.2</title>
+      <pubDate>Sat, 19 Sep 2026 02:26:33 GMT</pubDate>
+      <sparkle:version>0.1.2</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://maydisease.github.io/codex-local-mcp-gui-releases/releases/0.1.2.html</sparkle:releaseNotesLink>
+      <enclosure
+        url="https://github.com/Maydisease/codex-local-mcp-gui-releases/releases/download/v0.1.2/Local-MCP-Bridge-0.1.2-arm64.zip"
+        sparkle:version="0.1.2"
+        sparkle:shortVersionString="0.1.2"
+        sparkle:edSignature="NQrSAZXyAwkZjuzRwwWbE3ygF7tpEtCQr2XeU0i3+MExdCQPsT687gbK/5NTtNTp7QfYBLiEyOEVaBJlJosgBA=="
+        length="169525353"
+        type="application/octet-stream" />
+    </item>
   </channel>
 </rss>

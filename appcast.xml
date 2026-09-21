@@ -6,18 +6,18 @@
     <description>Local MCP Bridge macOS updates</description>
     <language>zh-CN</language>
     <item>
-      <title>Version 0.1.12</title>
-      <pubDate>Sun, 20 Sep 2026 14:19:39 GMT</pubDate>
-      <sparkle:version>0.1.12</sparkle:version>
-      <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
+      <title>Version 0.1.21</title>
+      <pubDate>Mon, 21 Sep 2026 11:26:40 GMT</pubDate>
+      <sparkle:version>0.1.21</sparkle:version>
+      <sparkle:shortVersionString>0.1.21</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://maydisease.github.io/codex-local-mcp-gui-releases/releases/0.1.12.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://maydisease.github.io/codex-local-mcp-gui-releases/releases/0.1.21.html</sparkle:releaseNotesLink>
       <enclosure
-        url="https://github.com/Maydisease/codex-local-mcp-gui-releases/releases/download/v0.1.12/Local-MCP-Bridge-0.1.12-arm64.zip"
-        sparkle:version="0.1.12"
-        sparkle:shortVersionString="0.1.12"
-        sparkle:edSignature="w5ciVFr0EAmqQqWmgpU+CY5gO3o8mbp9KuzTri5GWuu22rvOz5Cj9BlHILNgt0afifMSWG0kP60SzEI0NdFNCA=="
-        length="170436421"
+        url="https://github.com/Maydisease/codex-local-mcp-gui-releases/releases/download/v0.1.21/Local-MCP-Bridge-0.1.21-arm64.zip"
+        sparkle:version="0.1.21"
+        sparkle:shortVersionString="0.1.21"
+        sparkle:edSignature="aM5PviU1CE0+IziVzY9UzyLhzTmKIOld6SDaRpZ2gbbj8YgbhZ5WB3HxplPAq9efbR9oe7yzmdomRHf7B3YtDQ=="
+        length="170532447"
         type="application/octet-stream" />
     </item>
   </channel>
